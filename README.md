@@ -1,7 +1,6 @@
 ### Strongwoman Tech
-![Custom dimensions 320x132 px](https://user-images.githubusercontent.com/113387429/222494511-745ee868-dc01-483c-8aaf-cdaa26efabc4.png)
 
-
+<a href="https://eportfolio.mygreatlearning.com/jennifer-mcallister">UTexas Portfolio</a>
 
 <!--
 **StrongwomanTech/StrongwomanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
